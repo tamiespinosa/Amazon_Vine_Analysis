@@ -12,9 +12,34 @@ We were tasked in analyzing customer reviews in the Amazon website, from a produ
 
 ## <a name="Results"></a>Results
 
+In our analysis we found the following results: 
+
+### Paid Vine program members reviews:
+- Number of reviews: 580 reviews
+- Number of 5-star reviews: 246 reviews
+- Percentage of 5-star reviews: 42.4%
+
+### Non-Vine reviews: 
+- Number of reviews: 47,703 reviews
+- Number of 5-star reviews: 23,849 reviews
+- Percentage of 5-star reviews: 49.97%
+
+### Overall Results 
+- Total Number of reviews: 48,283 reviews
+- Total Number of 5-star reviews: 24,095 reviews
+- Percentage of 5-star reviews: 49.90%
+- Percentage of Vine Member Reviews: 1.20%
+- Percentage of Non-Vine Reviews: 98.80%
+
+
+<p align="center"> <img src="Resources/Vine_Results.png" width ="70%" alt="Vine_Results"> </p>
+<p align="center"> Figure 1: Vine Program Reults</p> 
+
+
 
 ## <a name="Summary"></a> Summary
 
+This analysis is only of one of the 
 
 ## <a name="Resources"></a>Resources
 
