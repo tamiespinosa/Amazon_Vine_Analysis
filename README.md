@@ -39,7 +39,9 @@ In our analysis we found the following results:
 
 ## <a name="Summary"></a> Summary
 
-This analysis is only of one of the 
+This analysis considers 1 out of 50 data sets of reviews for different product categories. Certainly, the results we found can not make an overall claim on a potential bias of positive reviews for Vine program members. To make a more conclusive claim, we would have to perform the same analysis we did in all 50 data sets. We could additionally, find the mean review score for Vine program members vs Non-Vine reviews, as these numbers would indicate if there's a tendency for positive or negative reviews, considering numbers like 4-stars or 3-starts (overall positive reviews).
+
+According to our findings, Non-Vine camera reviewers had 49.97% 5-star reviews, and consisted of 98.80% of all camera reviews considered. Vine program members on the other hand, had 42.4% 5-star reviews and consisted of only 1.20% of all the reviews considered. For cameras, we do not see Vine program members having a vias towards positive reviews. Yet, it is worth mentioning that now a days almost everyone has access to a camera on their phone. So customers for non-phone cameras are purchasing them with a specific purpose in mind, whether it is a go pro for underwater use or a professional camera that allows for better quality and more control of the settings used. Non-phone cameras are usually bought for a hobby, passion or professional use. Needless to say, these are enthusiastic customers. Vine program members receiving a camera might not share the same enthusiasm for its potential use. Additionally, they represent a very small percentage of the overall reviews. 
 
 ## <a name="Resources"></a>Resources
 
