@@ -12,7 +12,7 @@ We were tasked in analyzing customer reviews in the Amazon website, from a produ
 
 ## <a name="Results"></a>Results
 
-In our analysis we found the following results: 
+In order to determine which reviews were worth analyzing, we applied two filters to our data. Thr first filter was that there were more than 20 votes on the review, and the second filter was that 50% or more voters indicated that they found the review helpful. We used those filtered reviews to check the rate by which Vine program members vs non program members gave 5 star reviews. In our analysis we found the following results: 
 
 ### Paid Vine program members reviews:
 - Number of reviews: 580 reviews
